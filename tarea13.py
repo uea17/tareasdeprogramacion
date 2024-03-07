@@ -120,6 +120,7 @@ temperaturas = [
 
 
 
+
 # Calcular el promedio de temperaturas para cada ciudad y semana
 ciudades = ["Riobamba","Cuenca","Puyo"]
 for ciudad_idx, ciudad in enumerate(temperaturas):
