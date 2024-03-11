@@ -129,3 +129,15 @@ for ciudad_idx, ciudad in enumerate(temperaturas):
              promedio = suma_temperaturas / len(semana)
 
              print(f"promedio de temperaturas en {ciudades[ciudad_idx]}, Semana {semana_idx + 1}: {promedio:.2f}grados")
+
+
+
+# Calcular el promedio total de cada ciudad de las 4 semanas
+ciudades_promedio = ["Riobamba","Cuenca","Puyo"]
+for ciudad_idx, ciudades1 in enumerate(temperaturas):
+    for ciudades_idx, ciudad in enumerate(ciudades1):
+        suma_ciudad = sum(semana["temp"] for semana in ciudad)
+        promedio1 = suma_ciudad / len(ciudad)
+
+        print(f"promedio de temperaturas en {ciudades_promedio[ciudades_idx]}, ciudad {ciudades_idx + 1}: {promedio1:.2f}grados")
+
