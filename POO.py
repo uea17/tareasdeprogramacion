@@ -2,7 +2,7 @@
 
 class ClimaDiario:
     def __init__(self):
-        self.temperaturas = []
+        self.temperaturas = 23
 
     def ingresar_temperatura(self, temperatura):
         self.temperaturas.append(temperatura)
