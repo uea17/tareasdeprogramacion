@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d8c48ef8-54cd-412b-872a-4349f2e98f23" name="Changes" comment="deber">
+    <list default="true" id="d8c48ef8-54cd-412b-872a-4349f2e98f23" name="Changes" comment="deber semana 7">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -122,6 +122,8 @@
       <workItem from="1719632489990" duration="1297000" />
       <workItem from="1720392479524" duration="1049000" />
       <workItem from="1720396895257" duration="719000" />
+      <workItem from="1720884786950" duration="452000" />
+      <workItem from="1721477322305" duration="487000" />
     </task>
     <task id="LOCAL-00001" summary="deber">
       <option name="closed" value="true" />
@@ -243,7 +245,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720397433728</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="deber semana 7">
+      <option name="closed" value="true" />
+      <created>1720885134112</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1720885134112</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,7 +264,13 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="TEXT_FILTER_SETTINGS">
+                <TextFilterSettings>
+                  <option name="REGEX" value="true" />
+                </TextFilterSettings>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -263,12 +279,13 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="version deber 3" />
     <MESSAGE value="deber" />
-    <option name="LAST_COMMIT_MESSAGE" value="deber" />
+    <MESSAGE value="deber semana 7" />
+    <option name="LAST_COMMIT_MESSAGE" value="deber semana 7" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/reguistrodetemperaturasdiarias$14.coverage" NAME="14 Coverage Results" MODIFIED="1710373500059" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/reguistrodetemperaturasdiarias$tradicional.coverage" NAME="tradicional Coverage Results" MODIFIED="1718321211234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/reguistrodetemperaturasdiarias$POO.coverage" NAME="POO Coverage Results" MODIFIED="1720397384396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/reguistrodetemperaturasdiarias$POO.coverage" NAME="POO Coverage Results" MODIFIED="1720885075079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/reguistrodetemperaturasdiarias$variables_array.coverage" NAME="variables_array Coverage Results" MODIFIED="1711496131393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
     <SUITE FILE_PATH="coverage/reguistrodetemperaturasdiarias$tecnicas_de_programacion.coverage" NAME="tecnicas de programacion Coverage Results" MODIFIED="1718321068063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/reguistrodetemperaturasdiarias$12.coverage" NAME="12 Coverage Results" MODIFIED="1718321078141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
